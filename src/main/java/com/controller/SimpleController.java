@@ -8,6 +8,6 @@ public class SimpleController {
 
 	@GetMapping(value = "/")
 	public String sayHello() {
-		return "Welcome to Spring boot with simple war file akash kale";
+		return "Welcome to Spring boot with simple war file akash kale created !";
 	}
 }
